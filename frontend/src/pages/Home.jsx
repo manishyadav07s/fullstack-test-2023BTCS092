@@ -13,7 +13,7 @@ export default function Hero() {
         </button>
       </div>
       <div className="w-80 h-80 bg-gray-300 rounded-xl mt-10 md:mt-0">
-        {/* Placeholder for doctor image */}
+        <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGRvY3RvcnN8ZW58MHx8MHx8fDA%3D"></img>
       </div>
     </section>
   );

@@ -5,7 +5,7 @@ const About = () => {
         
     
         <div>
-          <img src="./assets/image.avif"
+          <img src="https://images.unsplash.com/photo-1666214280557-f1b5022eb634?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRvY3RvcnN8ZW58MHx8MHx8fDA%3D"
             alt="About MediCare"
             className="rounded-2xl shadow-lg"
           />
